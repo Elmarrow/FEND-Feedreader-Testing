@@ -8,19 +8,19 @@ The project has 7 tests using the Jasmine framework.
 
 Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". In this project there are 7 specs divided in 4 testing suites. It tests that
 
-The RSS Feeds
-    are defined
-    have a URL defined and the URL is not empty
-    have a Name defined and the name is not empty
+The RSS Feeds<br>
+    are defined<br>
+    have a URL defined and the URL is not empty<br>
+    have a Name defined and the name is not empty<br>
 
-The Menu
-    is hidden by default on load
+The Menu<br>
+    is hidden by default on load<br>
     should be visible when clicked and hidden when clicked again
 
-The Initial Entries
+The Initial Entries<br>
     that the loading feed has at least one entry on load
 
-The New Feed Selection
+The New Feed Selection<br>
     ensures that content actually changes on new feed load
 
 
